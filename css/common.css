@@ -178,7 +178,7 @@
     height: 100%;
     width: 100%;
 
-    background-color: rgba(0,0,0, .15);
+    background:url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1516799211711&di=b70d949522626bb0fb5798cb2f97c6f7&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F8%2F53abd200ee0a3.jpg') no-repeat cover ;
 }
 
 .blur {
